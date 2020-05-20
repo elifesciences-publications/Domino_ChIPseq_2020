@@ -1,6 +1,6 @@
 ## Summary
 
-This repository contains ChIP-seq pipeline used for the manuscript "Drosophila SWR1 and NuA4 complexes originate from DOMINO splice isoforms" by Scacchetti et al. 2020
+This repository contains ChIP-seq pipeline used for the manuscript "Drosophila SWR1 and NuA4 complexes originate from DOMINO splice isoforms" by Scacchetti et al. 2020, eLife https://doi.org/10.7554/eLife.56325
 
 ## Design
 
